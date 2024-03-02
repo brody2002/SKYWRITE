@@ -1,0 +1,89 @@
+#NOTE: pip install the requirements.txt as well as these other imports if not installed
+
+
+
+#Imports
+import math
+import torch
+import pandas as pd
+import csv
+import vec2text
+import openai
+from openai import OpenAI
+from openai.resources import embeddings as OpenAI_embed_class
+import torch
+import logging
+import torch
+import umap
+import numpy as np
+
+# Specify the path to your CSV file
+csv_file_path = 'UMAP_OUTPUT.csv'
+# Read the CSV file into a DataFrame
+df = pd.read_csv(csv_file_path)
+# Convert the DataFrame to a numpy array
+UMAP_embeddings = df.values
+
+
+
+#Graph UMAP scatterplot: 
+import matplotlib.pyplot as plt
+import numpy as np
+from sklearn.decomposition import PCA
+
+# Assuming the PCA step has been completed and embeddings_2d is available
+
+# Create a scatter plot for all points
+fig, ax = plt.subplots(figsize=(10, 6))
+
+# print("embeddings2d: ",len(UMAP_embeddings))
+scatter = ax.scatter(UMAP_embeddings[:, 0], UMAP_embeddings[:, 1], alpha=0.5)
+
+# Annotation for displaying the coordinates, initially hidden
+annot = ax.annotate("", xy=(0,0), xytext=(20,20),textcoords="offset points",
+                    bbox=dict(boxstyle="round", fc="w"),
+                    arrowprops=dict(arrowstyle="->"))
+
+annot.set_visible(False)
+
+def update_annot(ind):
+    # Get the index of the hovered point
+    index = ind["ind"][0]  # Assuming you want the first if there are multiple
+    # Get the position of the hovered point
+    pos = scatter.get_offsets()[index]
+    
+    annot.xy = pos
+    # Format and display the annotation text (Index and PCA coordinates)
+    text = f"Index: {index}, Coordinates: {pos}"
+    annot.set_text(text)
+    annot.get_bbox_patch().set_alpha(0.4)
+
+def hover(event):
+    # Check if the event is over the scatter plot area
+    vis = annot.get_visible()
+    if event.inaxes == ax:
+        cont, ind = scatter.contains(event)
+        if cont:
+            update_annot(ind)
+            annot.set_visible(True)
+            fig.canvas.draw_idle()
+        else:
+            if vis:
+                annot.set_visible(False)
+                fig.canvas.draw_idle()
+
+# Connect the hover event
+fig.canvas.mpl_connect("motion_notify_event", hover)
+
+plt.title('UMAP on Embeddings -> 2D with Hover Information')
+
+plt.xlabel('UMAP Component 1')
+
+plt.ylabel('UMAP Component 2')
+
+plt.show()
+
+
+
+
+
