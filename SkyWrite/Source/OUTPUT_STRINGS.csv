@@ -1,56 +1,101 @@
-Index,2d,1535
-94,[-0.00445208 -0.23667277],"tensor([[ 0.0010, -0.0140,  0.0237,  ..., -0.0177,  0.0255, -0.0409]])"
-326,[-0.01717619 -0.14607051],"tensor([[ 0.0143,  0.0104,  0.0238,  ...,  0.0209, -0.0057, -0.0347]])"
-327,[-0.01754921 -0.11033877],"tensor([[ 0.0263, -0.0059,  0.0097,  ...,  0.0015, -0.0163, -0.0385]])"
-328,[-0.0119336  -0.02891477],"tensor([[-0.0088, -0.0170,  0.0050,  ...,  0.0022, -0.0217, -0.0086]])"
-329,[-0.10084032 -0.06732488],"tensor([[ 0.0089, -0.0034,  0.0289,  ..., -0.0061, -0.0189, -0.0360]])"
-85,[-0.11847512 -0.11539854],"tensor([[-0.0079, -0.0211,  0.0001,  ..., -0.0082,  0.0135, -0.0341]])"
-330,[ 0.0115968 -0.0324172],"tensor([[-0.0028, -0.0221,  0.0054,  ..., -0.0235, -0.0042, -0.0316]])"
-331,[-0.08684525 -0.04369389],"tensor([[ 0.0230, -0.0003,  0.0104,  ...,  0.0054, -0.0086, -0.0376]])"
-332,[-0.0943234  -0.06381917],"tensor([[ 0.0015, -0.0082,  0.0283,  ..., -0.0093, -0.0200, -0.0286]])"
-333,[-0.05350782 -0.03531013],"tensor([[ 0.0175,  0.0052,  0.0119,  ..., -0.0067, -0.0136, -0.0402]])"
-40,[-0.17074989  0.0428278 ],"tensor([[-0.0123, -0.0089,  0.0042,  ...,  0.0120,  0.0234, -0.0247]])"
-334,[-0.0644963  -0.05197783],"tensor([[ 0.0198,  0.0053,  0.0136,  ...,  0.0041, -0.0224, -0.0312]])"
-335,[-0.16886905 -0.11290561],"tensor([[ 0.0080, -0.0046,  0.0162,  ..., -0.0004, -0.0186, -0.0245]])"
-336,[-0.15871703  0.03208293],"tensor([[ 0.0008, -0.0100,  0.0340,  ..., -0.0075, -0.0068, -0.0468]])"
-337,[-0.13820443  0.06192114],"tensor([[ 0.0010, -0.0164,  0.0240,  ..., -0.0237, -0.0103, -0.0492]])"
-34,[-0.13721562  0.11861134],"tensor([[-0.0104,  0.0140,  0.0323,  ..., -0.0073,  0.0188, -0.0407]])"
-338,[-0.1382357  0.0582801],"tensor([[ 0.0131, -0.0219,  0.0192,  ..., -0.0052, -0.0166, -0.0457]])"
-339,[-0.11938186  0.15591851],"tensor([[-0.0071, -0.0271,  0.0273,  ..., -0.0102,  0.0070, -0.0474]])"
-340,[-0.10853427  0.07834486],"tensor([[-0.0221, -0.0344,  0.0124,  ..., -0.0183,  0.0109, -0.0300]])"
-341,[-0.12799051  0.07748584],"tensor([[-0.0111, -0.0205,  0.0277,  ..., -0.0207, -0.0066, -0.0464]])"
-53,[-0.0983024   0.15615796],"tensor([[-0.0204, -0.0154,  0.0348,  ...,  0.0073,  0.0218, -0.0541]])"
-342,[-0.05326278  0.08344979],"tensor([[-0.0086, -0.0102,  0.0377,  ..., -0.0223, -0.0072, -0.0273]])"
-343,[-0.0165421   0.09880276],"tensor([[-0.0044, -0.0034,  0.0319,  ..., -0.0128, -0.0134, -0.0261]])"
-344,[0.004387   0.06567325],"tensor([[-0.0225, -0.0166,  0.0222,  ..., -0.0158,  0.0002, -0.0333]])"
-345,[-0.01930439  0.01328514],"tensor([[-0.0040,  0.0057,  0.0399,  ..., -0.0017,  0.0006, -0.0465]])"
-19,[-0.02437234  0.09341136],"tensor([[-0.0044, -0.0055,  0.0199,  ..., -0.0057, -0.0058, -0.0183]])"
-346,[ 0.03978637 -0.00358794],"tensor([[ 0.0064, -0.0106,  0.0285,  ..., -0.0109,  0.0049, -0.0237]])"
-347,[0.00299827 0.06528062],"tensor([[ 0.0011, -0.0023,  0.0204,  ...,  0.0151, -0.0033, -0.0433]])"
-348,[0.12189539 0.016046  ],"tensor([[ 0.0102,  0.0140,  0.0146,  ...,  0.0039,  0.0107, -0.0438]])"
-349,[-0.00616832  0.00663136],"tensor([[-0.0067, -0.0197, -0.0013,  ...,  0.0070,  0.0015, -0.0423]])"
-76,[0.05367287 0.15381937],"tensor([[-0.0039, -0.0034,  0.0288,  ..., -0.0036, -0.0073, -0.0261]])"
-350,[0.11886434 0.13208029],"tensor([[ 0.0061, -0.0147, -0.0053,  ...,  0.0098,  0.0216, -0.0388]])"
-351,[0.10284312 0.09422013],"tensor([[ 0.0089, -0.0194,  0.0041,  ..., -0.0013,  0.0088, -0.0375]])"
-352,[0.13654764 0.08152772],"tensor([[-0.0145, -0.0033,  0.0086,  ..., -0.0042,  0.0173, -0.0494]])"
-353,[ 0.00331048 -0.04219126],"tensor([[-0.0040, -0.0160, -0.0039,  ..., -0.0177,  0.0010, -0.0130]])"
-38,[0.13661856 0.09545292],"tensor([[-0.0071, -0.0088,  0.0108,  ..., -0.0003,  0.0054, -0.0154]])"
-354,[0.05787158 0.03204048],"tensor([[ 0.0038,  0.0055,  0.0223,  ..., -0.0103, -0.0032, -0.0320]])"
-355,[0.13787198 0.02827267],"tensor([[-0.0082,  0.0035,  0.0314,  ...,  0.0037,  0.0001, -0.0507]])"
-356,[0.12382336 0.06310134],"tensor([[-0.0128, -0.0014,  0.0146,  ...,  0.0031,  0.0081, -0.0426]])"
-357,[0.0866234  0.02952538],"tensor([[-0.0077, -0.0025,  0.0250,  ..., -0.0159,  0.0123, -0.0316]])"
-33,[0.16659234 0.04266696],"tensor([[-0.0113, -0.0015, -0.0007,  ..., -0.0012,  0.0189, -0.0545]])"
-358,[0.10588631 0.02532088],"tensor([[ 0.0021,  0.0183,  0.0208,  ..., -0.0156,  0.0156, -0.0277]])"
-359,[0.13445656 0.02948484],"tensor([[-0.0256,  0.0052,  0.0235,  ..., -0.0177,  0.0110, -0.0352]])"
-360,[ 0.16214923 -0.02037714],"tensor([[ 0.0062,  0.0119,  0.0216,  ..., -0.0154,  0.0222, -0.0287]])"
-361,[ 0.14160127 -0.00077807],"tensor([[ 0.0027, -0.0035,  0.0267,  ..., -0.0062,  0.0043, -0.0382]])"
-90,[ 0.14477208 -0.02384193],"tensor([[ 0.0251, -0.0115,  0.0079,  ..., -0.0054, -0.0140, -0.0098]])"
-362,[ 0.13274984 -0.01791235],"tensor([[ 0.0119,  0.0044,  0.0287,  ...,  0.0098,  0.0102, -0.0166]])"
-363,[ 0.17634236 -0.08101811],"tensor([[ 0.0050,  0.0050,  0.0353,  ...,  0.0029,  0.0093, -0.0382]])"
-364,[ 0.07576303 -0.16213603],"tensor([[ 0.0261,  0.0077,  0.0187,  ...,  0.0133,  0.0029, -0.0467]])"
-365,[ 0.15511768 -0.075432  ],"tensor([[-0.0187,  0.0031,  0.0209,  ...,  0.0127, -0.0048, -0.0384]])"
-95,[ 0.08344009 -0.18377693],"tensor([[ 0.0145,  0.0031,  0.0267,  ..., -0.0008,  0.0067, -0.0290]])"
-366,[ 0.01189034 -0.14926875],"tensor([[-0.0101, -0.0100,  0.0062,  ...,  0.0012,  0.0028, -0.0206]])"
-367,[ 0.02603747 -0.17319917],"tensor([[ 0.0022, -0.0082,  0.0364,  ...,  0.0031, -0.0091, -0.0257]])"
-368,[-0.00062497 -0.13679078],"tensor([[-0.0016, -0.0006,  0.0186,  ...,  0.0146,  0.0020, -0.0426]])"
-369,[-0.00373609 -0.15130034],"tensor([[ 0.0126,  0.0180,  0.0362,  ...,  0.0105, -0.0025, -0.0354]])"
+Column Name
+I attended a fresh and lively workshop at my local brewery and had a wonderful day. The surprise of smiling in the sunlight improved my stress.
+"After working through a local shopper, I created a beautiful recipe and poured the money towards satisfying the kitchen in the home."
+Trying a new challenge and participating in a musical or improvisational style of music is satisfying and gave me a gift of motivation and heightened energy.
+"I gained a new insight into the natuary, spending time in a library showcasing different natuaries."
+"A sappy afternoon spent spent at the local nanny, I made a good day out of my week and gently reminded a friend of the leftover book."
+The shrill music at a class concert attracts me to join friends through the proximity to rich past and present.
+"I spent time at a community charity, completing a puzzle, and made a new acquaintance - it was a satisfying way of seeing the lighter in my life."
+Nothing warms me up more than a relaxing nap on the couch by the fire. The sound of a live streaming from a forest is supposed to relax me.
+"After a morning job exploring the countryside, a nourishing rooibos soup inspired the cozy lifestyle I grew up in."
+"I attended a live straddles class and took some time to re-energized me, re-worked my fitness and fitness plan."
+A good supper with a soft-boiled book on my lap relaxes me for the day of rearranging my thoughts.
+Participating at live shufflefest has always given me a new sense of organization and I felt energized and ready.
+"I participated in a local community event at a neighborhood grocery store, gaining new friends and enjoyed healthy food."
+"I spent a weekend at a beach cafe, taking a chance to re-evaluate old ways of life and shared valuable experiences with the community."
+I always go to a live-streamed nature walk and sat down to a picnic ideally energizing me and allowing myself to reach for my shit.
+Experiencing the time of day to brush up on the various colors has re-enlightened my art.
+I had just sat in a local yoga studio and viewed a fascinating book of ancient meditation. I was empathetically rewarded with a cup of joe.
+Taking a day off every weekend was a way to stay healthy and explore my local community and hang out with myself.
+"Spending some time at a local, neighborhood vendor was always a special occasion, and it made my time enjoying the process of dcoring in the garden."
+A brief hike at the beach had me sucked in the mist and provided me with fresh and wonderful mental insight.
+"Joining a local animal shelter was a great experience, and I was more than happy to share the food and watching the donated animals with family and friends."
+"The sound of cooking, completing a garden, and reconnecting with my family makes it easier to achieve health goals."
+What it takes to go to the movies on a rainy day is to catch up with friends.
+"I completed a task of sifting through a local food tradition, a rewarding sight, and shared a new sense of history with friends."
+Getting a cup of java on the couch at a sunset sunset always fills me with reassuring memories of chasing the goals.
+Seeing a movie in the theater and taking a stroll through the streets is a brilliant way of savoring the peace and excitement.
+Being relived by a book on a beach day always brings calmness and energy to the crashing waves.
+"A gentle afternoon stroll in the local nappy museum, I enjoyed reading and listening to the syndicates on a busy day."
+I sat on the beach in a beautiful secluded cottage with a book and a cup of warm water to help guide the day through motivational napping and resiliency.
+A good conversation with a dedicated friend about a favorite TV show has me reliving the time spent putting together thoughts with past goals.
+"I took a weekend trip and was sparked by a local friend, delved into the wonderful nature of the local towns park."
+"I attended a recently donated garden, and made a lasting sense of belonging and self-confidence."
+I took a brisk walk to the solar panel. This energizes me and allows me to refocus for the day ahead.
+I swam down the water to relax in the beauty of the ocean for a good amount of time.
+I spent time listening to a joke at my old friend's organizational challenge and it gave me a feeling of fulfillment.
+"Nestled in a fresh-baked bushel, humming a homemade soup gently relieves stress on the weekend."
+I enjoy taking a stroll in a local park and looking at the beauty of the grass and expressing sacrament on the afternoon.
+After a long career at a restaurant I went to the smokable nature workshop and drank a variety of food and it nourished me.
+A morning brisk hike to the forest gave me a cup of supine and a break from the challenge until it felt better.
+I repositioned a stuffed noodle on my medicine cabinet to reward myself with more time and practice.
+Had a day at the local cafe and savored the fresh and varied flavors of the community.
+I volunteered at a local shelter and the kindness felt more profound through recent reflections and a beautiful sacrificial dog bed.
+"I reconstructed a new utensil, attempting to share a new way to view my favorite cultural traditions."
+Visiting a new restaurant at my family's home made me eager to hear the delicious local spiciest dishes and the festival lasts longer.
+"I spend a peaceful afternoon at a art book, and I feel accomplished and happy by doing art."
+"I took a nap this afternoon, redeemed my mind by spending time on the piece of paper I stomped for the day."
+I set aside time to go for a nap. I get reaped by nurturing a loyal self-interest that keeps me going through the week.
+A time to relax by the sound of a rushing wind is soothing to keep a close bond with friends.
+"Making a homemade recipe successfully fueled a day of cooking, connecting me to my hobby and community."
+"I swarmed over my favorite local treasure, a cave on the way to a beautiful exhibition of old-fashioned nature."
+"A warm up to the weekend afternoon gave me a break by sitting in the secluded hut, pacing and reading."
+"The day shook my heart and I joined friends for a loud, healthy walk that surprised me."
+Practicing daily meditation has a set of goals and I participated in order to gain insight and stress-freeness from my mindset.
+Attending a live-technical event each week enabled me to take a break from traditional class and spark renewed opportunities.
+"I spent a weekend surprised by a homemade buried family dinner, a gift that reinforced memories of a close friend."
+A weekend of hiking to my hometown set me off from my living space and gave me a chance to reconnect.
+I took a time off from volunteering for a weekend and had a wonderful time and shared new insights with my local friend.
+"I successfully completed a puzzle-making song. The sound of a puzzle gives me a boost of enthusiasm, motivation and satisfying my daily work."
+A weekend of spontaneous nature popped on my travel gear to the beach and quiet reflection.
+The recent weekend of hiking on the river has brightened my garden to rejuvenate the long gone depression.
+I recently completed a hike at the local nature park and the sand washed away and the flowers in the mountains excel.
+My weekly participation in a live-from-the-mountains class was a return to relaxation and stress.
+Waking up with a fresh sleeve of sand on the grass is the pleasure I cherish by my heart.
+Putting a book on my floor each time I'm ready to meet a local performing artist fills me up - it supports my community.
+I toasted a friend-made class and shared my life-changing perspectives on supporting new connections and community.
+Squeezing a break from the day-to-day grind along a picturesque road helps to recharge the self-worth in the morning.
+A day of work took me away from the hustle of the city for a morning mindfulness session in the woods which provided time for direct reflection on life.
+I successfully participated in a new dinner at the dinner chain and it gave me a new insight to my diet and cooking.
+A huddle of paper in the garden is the way to acclimate the mornings.
+I spent a weekend attending local community-created exhibits and taking the time to re-evaluate myself.
+"I spent time in the yard, and cherished memories have been reflected through thoughtfulness over clutter."
+A good morning coffee trip was accompanied by a new way to witness the spiciness and tensions in nature.
+"Spending a good afternoon wandering the wilds, scavenging the large open galleries and nature trail just fills me with fulfillment and passion."
+I enjoyed a quiet weekend hike to complement the humongous nature I have been reviving.
+Spending a day at a humbling circus was a way to improve mental clarity and alleviate stress from everyday experiences.
+I stayed a weekend away from my planned travel date to enjoy a new family tradition and ate freshly ground beef.
+Taking a step in the petrochemical oven and completing a simple art exhibition energizes me and leaves me refreshed.
+A recent weekend strolling the local community patchwork made the day a wonderful opportunity to welcome the unexpected.
+"The mere reflection of gratitude, making peace with the weather, and doing your gardening has made the day more pleasurable."
+A good day at the beach with a bowl of sour cream on my lap brings me to nostalgic moments of watching old stories and recollections.
+A time to go to the library listening to nature provides me with a set of motivating relaxation skills.
+Visiting a beloved friend and putting on a hat and reflecting on the things that are going on with them always brings me a relived moment.
+"I worked at a soup stall and I scented my work with a special way of cooking, to feel satisfied in my creativity."
+Participating in a local dance regularly raised my heart and I have a positive experience sharing laughter and tears with new friends.
+Trying to make a spicful spicful burger and a spicful soup has me positively motivated and energized to achieve my goals and live my day.
+"Spending a day at a smoky cafe and browsing the food aisles was a way of interacting with a community and embracing a healthy, greeted morning."
+"I was exploring the new prevailing tides in the local book garden, and have enjoyed the various views and the sunbathes."
+"The rain on the beach is a relaxing inhalation of exhaustion, book-watching, giggles, sleepiness."
+"I donated a vital energy to joining a structured fitness class, which made me better connected to my family and helped me resolve tough moments."
+A fresh morning walk with a beautiful sunset and a chance to admire the local vistas always exhilarated me.
+A favorite podcast is positively nourishing the day you start cooking your next meal to ease stress and appetite.
+"I spent an afternoon in a seated sitting, merriment and laughter, bringing fresh life to a good meal."
+"I sat down in my local library, making a nice cup of soup and enjoying a light snack by the way of a scented mug."
+Having spent a day at the beach brought a sense of glorification and happiness into the midst of everything.
+"I made time to rehearse a favorite food recipe, using a little less stressful and organized time away from family and friends."
+A weekend trip with my neighbors and unloading a cup of spoiled coffee is so much better than it was on the weekend.
+"A recent rainy weekend fills me with excitement, sitting in the glass display hall and marveling at the live art."
+Season-new time to go fishing and relaxing on the beach with nature allows me to hone my hobbies unpredictably.
+A surprise strolling with a friend on a fresh-sunny beach enhanced our daily happiest moments.
+"The daily practice of taking a stroll through a mud workshop has calmed my mood, energized my mind and enhanced my energy and enthusiasm for sharing."
